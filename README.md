@@ -78,7 +78,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 This project is licensed under the [MIT License](LICENSE)
 
 ## 🙏 Acknowledgements
-
+- Thanks to https://github.com/gkamradt for his youtube video : https://www.youtube.com/watch?v=J2sbC8X5Pp8
 - [Groq](https://groq.com/) for providing the powerful language model.
 - [Langchain](https://github.com/hwchase17/langchain) for the conversation management, memory functionality, and retrieval augmented generation.
 - [SpeechRecognition](https://github.com/Uberi/speech_recognition) for the speech-to-text capabilities.
